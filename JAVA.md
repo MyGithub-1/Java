@@ -88,21 +88,7 @@
 
    **小数位**决定了计算精度，因为小数位能表示的数越大，则能计算的精度越大。
 
-#### 字符拓展
-
-1. 所有的字符本质还是**数字**。
-
-2. 转义字符
-
-   ![](https://img-blog.csdnimg.cn/2019071116145921.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDU2MDk0MA==,size_16,color_FFFFFF,t_70)
-
-   * \t：制表位
-   * \n：换行
-
-# 遗留问题
-
-1. 为什么Java的folat和double类型可以正确显示浮点数，在用来计算时却存在丢失精确度的情况？在存储float或double类型的数据时是怎么处理的？
-2. Unicode、UTF-8、ASCII码
 
 
+# 我的
 
